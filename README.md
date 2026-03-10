@@ -1,10 +1,10 @@
 ## Heathcare_Analytics
 
-#Overview 
+Overview 
 This project explores multiple dimensions of healthcare analytics using structured clinical data, operational patient records, healthcare cost data, and unstructured patient feedback text. The goal is to demonstrate how data science techniques can be applied to understand patient outcomes, hospital operations, healthcare expenses, and patient experiences.
 The project consists of four Jupyter notebooks, each analyzing a different dataset and answering a different healthcare-related question.
 
-#Datasets 
+Datasets 
 
 1. Diabetes Hospital Readmission Dataset
 Source: Kaggle – Diabetes Dataset
@@ -28,7 +28,7 @@ Purpose of analysis:
 To analyze patient experiences using natural language processing techniques and extract sentiment and common themes from healthcare-related text.
 
 
-#Analyses 
+Analyses 
 1. Hospital Readmission Risk Analysis
 This notebook analyzes clinical hospital data to identify factors associated with patient readmissions.
 Methods used:
@@ -86,7 +86,7 @@ Sentiment analysis allows aggregation of patient experiences across treatments.
 NLP provides insights that structured datasets alone cannot capture.
 
 
-#Tools and Technologies
+Tools and Technologies
 This project was implemented in Python using:
 pandas
 numpy
@@ -97,7 +97,7 @@ TextBlob
 wordcloud
 All analyses were conducted using Jupyter notebooks.
 
-#Skills Demonstrated
+Skills Demonstrated
 This project demonstrates practical experience with:
 data cleaning and preprocessing
 exploratory data analysis
