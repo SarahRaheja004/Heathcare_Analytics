@@ -84,3 +84,35 @@ Patient reviews contain strong signals about drug effectiveness and side effects
 Topic modeling reveals recurring themes in medication experiences.
 Sentiment analysis allows aggregation of patient experiences across treatments.
 NLP provides insights that structured datasets alone cannot capture.
+
+
+#Tools and Technologies
+This project was implemented in Python using:
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+TextBlob
+wordcloud
+All analyses were conducted using Jupyter notebooks.
+
+#Skills Demonstrated
+This project demonstrates practical experience with:
+data cleaning and preprocessing
+exploratory data analysis
+statistical analysis
+data visualization
+regression modeling
+classification modeling
+natural language processing
+topic modeling
+healthcare data analytics
+
+
+Future Improvements
+Possible extensions include:
+1. incorporating time-series hospital admission data
+2. building more advanced NLP models using transformers
+3. developing dashboards for hospital analytics
+4. applying deep learning models for healthcare prediction tasks
